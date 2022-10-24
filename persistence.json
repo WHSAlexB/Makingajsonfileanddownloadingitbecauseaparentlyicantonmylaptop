@@ -1,8 +1,8 @@
 {
     "persistence" : [
         {
-            "image": "/ISO/pop-os_22.04_amd64_nvidia_14.iso",
-            "backend": "/persistence/persistence.dat"
+            "image": "/pop-os_22.04_amd64_nvidia_14.iso",
+            "backend": "/persistence.dat"
         }
     ]
 }
